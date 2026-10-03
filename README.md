@@ -43,6 +43,7 @@ My current areas of focus include:
 * Network Reconnaissance
 * Security Awareness
 * Ethical Hacking
+* SOC Analysis
 
 ---
 
